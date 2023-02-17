@@ -1,4 +1,4 @@
-# Why Kickstarter Campaigns Fail? A Visualization using Python.
+# Why Kickstarter Campaigns Fail: A Visualization using Python.
 
 Kickstarter is a global crowdfunding platform, focused on creativity and merchandising. The company's stated mission is to "help bring creative projects to life".
 
